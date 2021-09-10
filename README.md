@@ -1,4 +1,4 @@
-## Web Front-End Developer 류하준입니다.
+## 음악과 여행을 좋아하는 Web Front-End 개발자입니다.
 
 배운것에 대해 기록하는것을 중요하게 생각합니다.
 
