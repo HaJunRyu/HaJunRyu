@@ -14,6 +14,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJunRyu)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://opgc.me/#/users/hajunryu" target="_blank"><img src="https://api.opgc.me/githubs/users/hajunryu/tag/?border=normal" /></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaJunRyu&count_bg=%2379C83D&title_bg=%23555555&icon=tripadvisor.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
