@@ -6,7 +6,7 @@
 
 사용자경험에 대해 고민하는것에 가장 많은 가치를 두고 있고 장애가 있는 환경에서의 사용에 대해서도 고려하여 웹 표준과 접근성을 준수하여 개발하려고 노력합니다.
  
-🤵‍♂️ [Portfolio](https://hajunryu.oopy.io/) 
+🤵‍♂️ [Portfolio](https://hajunryu.oopy.io/)  
 📚 [Blog](https://dev-junn.netlify.app)  
 🖼 [Instagram](https://www.instagram.com/lyu_gw/)  
 ✉️ [Email](mailto:fbgkwns@gmail.com)  
